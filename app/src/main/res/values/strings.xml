@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E-CommerceApp</string>
+    <string name="product_title">Product Title</string>
+    <string name="product_description">This one is product description</string>
+</resources>
